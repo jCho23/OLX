@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{0897F236-E4EC-4AF9-B6AD-893717F661CF}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.OLX PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OLX/Tests.cs">
+    <Files>
+      <File FileName="OLX/Tests.cs" Line="83" Column="6" />
+      <File FileName="OLX/AppInitializer.cs" Line="43" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="OLX" expanded="True">
+            <Node name="OLX" expanded="True">
+              <Node name="OLX" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="Tests(Android)" expanded="True">
+                    <Node name="FirstTest" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
